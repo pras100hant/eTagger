@@ -1,0 +1,218 @@
+,url,title,manual_labels
+0,https://github.com/yeriomin/YalpStore/issues/10,Dark mode,[0]
+1,https://github.com/rdoeffinger/Dictionary/issues/72,"Downloadmanager Message ""2 files are downloaded"" is not removed after error","[19, 5]"
+2,https://github.com/hwki/SimpleBitcoinWidget/issues/11,coinbase showing wrong price,[]
+3,https://github.com/ZeeRooo/MaterialFBook/issues/73,Notification for Messages,[5]
+4,https://github.com/ZeeRooo/MaterialFBook/issues/57,Can't share article via share button,[]
+5,https://github.com/ZeeRooo/MaterialFBook/issues/30,Battery drain,"[9, 7, 18]"
+6,https://github.com/PaulWoitaschek/Voice/issues/569,App is devouring battery like there's no tomorrow.,"[15, 14, 18]"
+7,https://github.com/PaulWoitaschek/Voice/issues/490,Exit application when playback timer expires,[2]
+8,https://github.com/PaulWoitaschek/Voice/issues/446,Lock screen issue,[]
+9,https://github.com/PaulWoitaschek/Voice/issues/423,Feature: Persistent sleep timer,[]
+10,https://github.com/PaulWoitaschek/Voice/issues/411,Does faster playback speed use more battery?,[13]
+11,https://github.com/PaulWoitaschek/Voice/issues/392,Play/Pause stopped working on the Pebble,[]
+12,https://github.com/PaulWoitaschek/Voice/issues/391,Feature request: Disable bluetooth on sleep,[9]
+13,https://github.com/PaulWoitaschek/Voice/issues/384,too much disk activity,"[18, 13]"
+14,https://github.com/PaulWoitaschek/Voice/issues/355,Service remains active when not in use,"[21, 4, 14]"
+15,https://github.com/PaulWoitaschek/Voice/issues/299,More intelligent file scanner,"[13, 6, 12]"
+16,https://github.com/PaulWoitaschek/Voice/issues/215,High power usage during playback.,"[13, 12]"
+17,https://github.com/PaulWoitaschek/Voice/issues/189,Empty database after a reboot,"[10, 2, 4]"
+18,https://github.com/PaulWoitaschek/Voice/issues/78,Possible battery drain: App is running all the time.,"[15, 14, 18]"
+19,https://github.com/jensstein/oandbackup/issues/133,sheduled backup stucks in the process,"[11, 9, 14]"
+20,https://github.com/JusticeRage/ApkTrack/issues/106,"[Bug] ApkTrack 2.1.1b, 2.1.1c and 2.1.1d as built and distributed by F-Droid crash when entering ApkTrack's settings",[]
+21,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/33,Germany - only Apple WiFi backend works,[]
+22,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/26,f-droid version doesn't work out of the box on CM12,[]
+23,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/23,Unload the backends when not in use,"[12, 3]"
+24,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/22,UnifiedNlp not initializing location backend properly after reboot,[]
+25,https://github.com/microg/android_packages_apps_UnifiedNlp/issues/11,Question: How to install UnifiedNlp on CM11 without gapps,[]
+26,https://github.com/kraigs-android/kraigsandroid/issues/121,Alarm stops after about 15 minutes I think. Is there a way to make it last longer?,[]
+27,https://github.com/kraigs-android/kraigsandroid/issues/95,incompatibility with KitKat low-memory optimizations,"[12, 18, 2]"
+28,https://github.com/kraigs-android/kraigsandroid/issues/78,[feature request] notification icon on the right,[5]
+29,https://github.com/kraigs-android/kraigsandroid/issues/60,"Alarm fails except for tiny vibrate, screen backlight won't turn on, power consumption rockets","[2, 15]"
+30,https://github.com/kraigs-android/kraigsandroid/issues/52,Disable alarm time out,"[2, 14]"
+31,https://github.com/kraigs-android/kraigsandroid/issues/16,No alarm sound after 1.5 upgrade,[]
+32,https://github.com/kraigs-android/kraigsandroid/issues/11,Status icon moves constantly (switches it's position with other app icons),[]
+33,https://github.com/micolous/metrodroid/issues/26,LG G3 Mifare Classic read failure,[13]
+34,https://github.com/drpout/boilr/issues/140,Auto silence alarm after 10 mins,[2]
+35,https://github.com/drpout/boilr/issues/131,Refresh prices per user request,"[21, 1, 13]"
+36,https://github.com/drpout/boilr/issues/71,redesign triggered alarm pannel,[0]
+37,https://github.com/openbmap/radiocells-scanner-android/issues/175,Location Listener is not removed when user turns off GPS in the middle of scanning session,"[3, 18, 2]"
+38,https://github.com/openbmap/radiocells-scanner-android/issues/124,Feature request: Permanent scan service,"[3, 4]"
+39,https://github.com/openbmap/radiocells-scanner-android/issues/105,wakelock kept - excessive battery use,"[15, 14, 18]"
+40,https://github.com/openbmap/radiocells-scanner-android/issues/79,Option to disable battery saver,[15]
+41,https://github.com/openbmap/radiocells-scanner-android/issues/59,GPS is not released properly after logging,"[10, 2, 3]"
+42,https://github.com/openbmap/radiocells-scanner-android/issues/54,Stop scanning on low battery,[7]
+43,https://github.com/openbmap/radiocells-scanner-android/issues/45,"Use data, not export time, for timestamp in filenames of exported files",[]
+44,https://github.com/Marlinski/Rumble/issues/3,Devices not discoverable under Android Wi-fi Hotspot,[9]
+45,https://github.com/ubergeek42/weechat-android/issues/194,High battery usage (higher than the screen!),"[15, 14, 18]"
+46,https://github.com/ubergeek42/weechat-android/issues/73,User enabled background notification system,"[5, 14]"
+47,https://github.com/ubergeek42/weechat-android/issues/41,excessive communication,[12]
+48,https://github.com/ubergeek42/weechat-android/issues/13,Better connection/disconnection handling,"[6, 4, 8]"
+49,https://github.com/ubergeek42/weechat-android/issues/7,Custom notification options,[5]
+50,https://github.com/n76/wifi_backend/issues/41,A mapping feature would be great,[]
+51,https://github.com/n76/wifi_backend/issues/37,WiFi Location Service and Android 6.0.1,[15]
+52,https://github.com/n76/wifi_backend/issues/7,WiFibackend doesn't seem to run,[]
+53,https://github.com/n76/wifi_backend/issues/1,High battery consumption even though location is disabled,"[15, 16, 6]"
+54,https://github.com/nextgis/android_gisapp/issues/209,Settings: turn off geolocation,"[14, 2]"
+55,https://github.com/onyxbits/remotekeyboard/issues/23,Use on lockscreen,[]
+56,https://github.com/onyxbits/remotekeyboard/issues/4,security issues wrt telnet?,[]
+57,https://github.com/pot8oe/mythmote/issues/82,Mythmote consistently disconnects,[1]
+58,https://github.com/pot8oe/mythmote/issues/27,Changing the aspect of phone restarts connection process and causes 11 second pause ,[1]
+59,https://github.com/daktak/xposed_downloader/issues/17,"Black theme ""AMOLED""",[0]
+60,https://github.com/fixme-lausanne/MyHackerspace/issues/33,Quite high battery usage,"[15, 14, 18]"
+61,https://github.com/mozilla/MozStumbler/issues/1779,appcompat-v4:23 and appcompat-v7:23 GUI glitches,[]
+62,https://github.com/mozilla/MozStumbler/issues/1724, The MLS android app abruptly stops generating reports even though the GPS is set.,[2]
+63,https://github.com/mozilla/MozStumbler/issues/1683,Sailfish app,[]
+64,https://github.com/mozilla/MozStumbler/issues/1664,A way to force unpause?,[19]
+65,https://github.com/mozilla/MozStumbler/issues/1490,Accelerometer Motion sensor gaps in scanning,"[17, 16, 7]"
+66,https://github.com/mozilla/MozStumbler/issues/1466,Autostart option,[]
+67,https://github.com/mozilla/MozStumbler/issues/1449,Motion Sensing V2 Planning,"[17, 16, 7]"
+68,https://github.com/mozilla/MozStumbler/issues/1427,"improve description of ""enable MLS location queries""",[]
+69,https://github.com/mozilla/MozStumbler/issues/1415,Accelerometer not working with screen off,[19]
+70,https://github.com/mozilla/MozStumbler/issues/1409,[Regression] MozStumbler's UI gets unresponsive after scanning a while (low end devices),"[0, 12, 2]"
+71,https://github.com/mozilla/MozStumbler/issues/1394,"Scanning pauses when I stand still, but doesn't resume when I start moving",[2]
+72,https://github.com/mozilla/MozStumbler/issues/1386,add explicit high-power mode,[7]
+73,https://github.com/mozilla/MozStumbler/issues/1317,1.5.2 drains the battery by leaving the GPS active after stop stumbling,"[14, 15]"
+74,https://github.com/mozilla/MozStumbler/issues/1301,only scan for GPS before first GPS fix,"[4, 21]"
+75,https://github.com/mozilla/MozStumbler/issues/1300,battery saving technique is only effective once the device had a GPS signal and doesn't move,"[16, 15, 6]"
+76,https://github.com/mozilla/MozStumbler/issues/1293,ACRA: NPE BatteryCheck.batteryLevel,"[7, 15]"
+77,https://github.com/mozilla/MozStumbler/issues/1290,"No motion paused: MapLocationListener switched to network location, just turn this off completely",[18]
+78,https://github.com/mozilla/MozStumbler/issues/1257,Minor settings UI items: Crash Reports title and change to MLS detailed info,[]
+79,https://github.com/mozilla/MozStumbler/issues/1178,I see a different map at times,[]
+80,https://github.com/mozilla/MozStumbler/issues/1175,Bangladesh translation of playstore listing,[]
+81,https://github.com/mozilla/MozStumbler/issues/1124,Screen Off Scanning: Reports doesn't increase when the screen turned off. ,"[10, 19]"
+82,https://github.com/mozilla/MozStumbler/issues/1109,Battery Saving: minimum battery level setting (currently hard-coded to 15%),[]
+83,https://github.com/mozilla/MozStumbler/issues/1107,Hook accelerometer to enable/disable wifi/cell scanning,"[17, 16, 7]"
+84,https://github.com/mozilla/MozStumbler/issues/1105,Upload only on charge,"[4, 21]"
+85,https://github.com/mozilla/MozStumbler/issues/1103,V 0.41.0.0. crashes and deletes reports,[]
+86,https://github.com/mozilla/MozStumbler/issues/1069,"Disable ""keep screen on while in map"" when in low power situations","[2, 6]"
+87,https://github.com/mozilla/MozStumbler/issues/1055,Investigate network scanner scanning frequency,[]
+88,https://github.com/mozilla/MozStumbler/issues/1048,Crash on low battery,"[6, 7]"
+89,https://github.com/mozilla/MozStumbler/issues/1023,"MainApp::onStop crashes (if battery <15%, app crash on startup)","[6, 7]"
+90,https://github.com/mozilla/MozStumbler/issues/962,ANR with v0.40.0,[]
+91,https://github.com/mozilla/MozStumbler/issues/943,stumbler did not turn off on 15% battery,"[6, 7]"
+92,https://github.com/mozilla/MozStumbler/issues/869,"No collection: observation count increases, but no data in queue, no data uploaded",[8]
+93,https://github.com/mozilla/MozStumbler/issues/780,MozStumbler on Firefox OS,[]
+94,https://github.com/mozilla/MozStumbler/issues/716,Points with WIFI turned off get not imported,[9]
+95,https://github.com/mozilla/MozStumbler/issues/710,0.20.9 lacks of UI feedback when the capturing process is stopped/killed by the system,[]
+96,https://github.com/mozilla/MozStumbler/issues/614,"Everytime after uploading something, I get: Unfortunately, MozStumbler has stopped",[11]
+97,https://github.com/mozilla/MozStumbler/issues/584,Investigate battery consumption of Wifi and Cell scans,"[9, 15]"
+98,https://github.com/mozilla/MozStumbler/issues/569,how to use the localized versions.,[]
+99,https://github.com/mozilla/MozStumbler/issues/547,Add an option to keep the phone's screen on ,"[14, 15, 0]"
+100,https://github.com/mozilla/MozStumbler/issues/542,intelligent battery saving mode for walking and other slow moving,"[6, 14]"
+101,https://github.com/mozilla/MozStumbler/issues/445,Using android's own methods for geofencing,[]
+102,https://github.com/mozilla/MozStumbler/issues/406,Upload compressed JSON using HTTP `Content-Encoding: gzip`,[8]
+103,https://github.com/mozilla/MozStumbler/issues/385,Quit does not Quit,[]
+104,https://github.com/mozilla/MozStumbler/issues/381,Add support for external GPS devices,[]
+105,https://github.com/mozilla/MozStumbler/issues/371,Use no more than percent of battery,"[6, 7]"
+106,https://github.com/mozilla/MozStumbler/issues/369,Interval based peroidic scanning,[13]
+107,https://github.com/mozilla/MozStumbler/issues/353,Add option to configure stumbler's low battery limit,"[14, 15, 6]"
+108,https://github.com/mozilla/MozStumbler/issues/352,battery empty -> scan button doesn't switch from on to off state,[]
+109,https://github.com/mozilla/MozStumbler/issues/340,MozStumbler >= v0.9.0 no longer scans WiFi very well on BlackBerry 10.2.1,[9]
+110,https://github.com/mozilla/MozStumbler/issues/329,Wishlist: bring back the manual on/off button,[14]
+111,https://github.com/mozilla/MozStumbler/issues/328,Location tracking activates despite exiting the app,"[14, 15, 18]"
+112,https://github.com/mozilla/MozStumbler/issues/327,Disabling power saving mode does not work,[7]
+113,https://github.com/mozilla/MozStumbler/issues/323,No Map Tiles/Images (Test Mozilla Location Service),[12]
+114,https://github.com/mozilla/MozStumbler/issues/316,"Wifi settings, wrong signature (FDroid update), test service->no visible map",[9]
+115,https://github.com/mozilla/MozStumbler/issues/312,Activity recognition should not stop scanning when power-saving mode is off,"[6, 15, 14]"
+116,https://github.com/mozilla/MozStumbler/issues/308,Bring back start/stop capture button,[]
+117,https://github.com/mozilla/MozStumbler/issues/261,More battery consumption than openbmap and opencellid clients,[]
+118,https://github.com/mozilla/MozStumbler/issues/250,How to see if there are unsent informations and if yes force to report them ?,[]
+119,https://github.com/mozilla/MozStumbler/issues/241,Don't force Wi-Fi always ON,"[14, 4]"
+120,https://github.com/mozilla/MozStumbler/issues/198,Allow to pause scanning,[19]
+121,https://github.com/mozilla/MozStumbler/issues/168,"Change ""GPS Satellites Visible"" count to a descriptive string",[]
+122,https://github.com/mozilla/MozStumbler/issues/131,Stumbling without data enabled fails to upload any/most data,"[11, 8]"
+123,https://github.com/mozilla/MozStumbler/issues/41,Pause scanning on ACTION_BATTERY_LOW intent,"[6, 7]"
+124,https://github.com/mozilla/MozStumbler/issues/40,Investigate undocumented WifiManager.startScanActive() API,[]
+125,https://github.com/mozilla/MozStumbler/issues/32,"Investigate ""Wi-Fi scan-only mode"" (REQUEST_SCAN_ALWAYS_AVAILABLE) in JB 4.3",[9]
+126,https://github.com/mozilla/MozStumbler/issues/21,Enable both active and passive stumbling modes for the Client,"[15, 14]"
+127,https://github.com/Etuldan/spaRSS/issues/34,black theme for amoled displays,[0]
+128,https://github.com/Etuldan/spaRSS/issues/11,Refresh animation doesn't stop,"[13, 20]"
+129,https://github.com/kenkendk/android-bluez-ime/issues/69,want g2x access,[]
+130,https://github.com/kenkendk/android-bluez-ime/issues/62,Problems auto re-connecting to WII remote,[]
+131,https://github.com/kenkendk/android-bluez-ime/issues/49,Error: connection refused,[1]
+132,https://github.com/kenkendk/android-bluez-ime/issues/37,Zeemote and asigning key to emulate Home.,[]
+133,https://github.com/kenkendk/android-bluez-ime/issues/21,not working on android 2.2,[]
+134,https://github.com/kenkendk/android-bluez-ime/issues/19,Chainpus BGP-100 support,[]
+135,https://github.com/eidottermihi/rpicheck/issues/131,Feature request: Be able to set the interval for status check on widget.,[]
+136,https://github.com/janosgyerik/bluetoothviewer/issues/4,Create a dummy device to make development easier,[]
+137,https://github.com/frankmorgner/vsmartcard/issues/44,Running vicc on kali and sony xperia L,[]
+138,https://github.com/frankmorgner/vsmartcard/issues/23,remote-reader: read nPA withz AusweisApp gets TagLostException  --- i/choreographer skipped frames,[]
+139,https://github.com/frankmorgner/vsmartcard/issues/22,"remote-reader: to keep NFC active, please build in keep screen active function",[]
+140,https://github.com/PrivacyApps/offline-calendar/issues/4,Calendar tries to synchronize,[13]
+141,https://github.com/miku-nyan/Overchan-Android/issues/81,Saved images not added to Android Media Index,[12]
+142,https://github.com/microg/IchnaeaNlpBackend/issues/13,Exceptions in log,[10]
+143,https://github.com/microg/IchnaeaNlpBackend/issues/5,Does it interfer with MozStumbler,[]
+144,https://github.com/frrahat/Quran-For-My-Android/issues/5,Does not start on Android Lollipop,[]
+145,https://github.com/martykan/webTube/issues/36,"Cool app, very is donate button?",[]
+146,https://github.com/wiglenet/wigle-wifi-wardriving/issues/39,Client does not store most accurate data,"[16, 12]"
+147,https://github.com/lkorth/screen-notifications/issues/50,[Feature request] Breathing screen = on -> off -> on -> off -> on -> off.....,[]
+148,https://github.com/lkorth/screen-notifications/issues/44,Battery usage,"[7, 15, 6]"
+149,https://github.com/lkorth/screen-notifications/issues/15,Proximity Sensor,[17]
+150,https://github.com/ThibaudM/timelapse-sony/issues/14,"Keep screen active, update camera list","[0, 15]"
+151,https://github.com/nbenm/ImapNote2/issues/12,Authentication failed for iCloud notes,[]
+152,https://github.com/douzifly/clear-todolist/issues/3,black amoled-friendly design ,[0]
+153,https://github.com/pmarks-net/chromadoze/issues/3,Feature request: sleep timer / auto shut-off,[]
+154,https://github.com/freeotp/freeotp-android/issues/24,[RFE] Have a setting to show all token codes right away without an extra tap,"[19, 4]"
+155,https://github.com/freeotp/freeotp-android/issues/19,Galaxy S4 battery use,"[7, 15, 6]"
+156,https://github.com/cSploit/android/issues/732,Black theme AMOLED,[0]
+157,https://github.com/cSploit/android/issues/342,(idea) Reaver support,[]
+158,https://github.com/cSploit/android/issues/333,Bruteforce WiFi!!,[9]
+159,https://github.com/cSploit/android/issues/276,Dark Theme doesn't show,[0]
+160,https://github.com/cSploit/android/issues/229,Ideas,[]
+161,https://github.com/cSploit/android/issues/205,*URGENT*IMPORTANT*MSF*,[]
+162,https://github.com/cSploit/android/issues/177,We need you with the best kit we can get you,[]
+163,https://github.com/cSploit/android/issues/63,double confirm to exit,[19]
+164,https://github.com/junjunguo/PocketMaps/issues/39,build database to save tracking points,[]
+165,https://github.com/daneren2005/Subsonic/issues/121,Theme with black background for OLED devices,[0]
+166,https://github.com/daneren2005/Subsonic/issues/102,JPEG->JPG,[]
+167,https://github.com/labexp/osmtracker-android/issues/61,switching off the display makes OSMTracker forget tiles,[]
+168,https://github.com/zxing/zxing/issues/137,please provide j2me builds,[]
+169,https://github.com/abarisain/dmix/issues/656,[Important Announcement] MPDroid about to be pulled from Play Store,[]
+170,https://github.com/abarisain/dmix/issues/587,High CPU usage when trying to stream,"[20, 13, 15]"
+171,https://github.com/abarisain/dmix/issues/507,Doesn't work with media buttons,[]
+172,https://github.com/abarisain/dmix/issues/504,Problem with MPDroid-beta and multi-album-artists,[18]
+173,https://github.com/abarisain/dmix/issues/406,Ideas from FoobarCon ?,[]
+174,https://github.com/abarisain/dmix/issues/296,[Feature] Now Playing notification,[5]
+175,https://github.com/abarisain/dmix/issues/225,[Wishlist] Control music player via Notification,[5]
+176,https://github.com/abarisain/dmix/issues/192,[Wishlist] Add commands in the lock screen,[]
+177,https://github.com/abarisain/dmix/issues/180,Connection lost when screen goes off,[1]
+178,https://github.com/abarisain/dmix/issues/162,[wishlist] Switching songs with physical volume buttons,[]
+179,https://github.com/abarisain/dmix/issues/151,Ongoing notification with controls while playing,"[5, 15]"
+180,https://github.com/abarisain/dmix/issues/113,Crash browsing in files mode,[8]
+181,https://github.com/abarisain/dmix/issues/112,Layout on Nexus 7,[]
+182,https://github.com/abarisain/dmix/issues/80,Android Widget for simple play/pause + next,[]
+183,https://github.com/abarisain/dmix/issues/36,Closing connection,[2]
+184,https://github.com/abarisain/dmix/issues/3,Streaming doesn't restart and eats battery,[20]
+185,https://github.com/thasmin/Podax/issues/188,Podax loses track of time,[]
+186,https://github.com/bherrmann7/Car-Cast/issues/101,Volume normalization between podcasts,[]
+187,https://github.com/aarddict/android/issues/28,make scrolling and page turns e-ink friendly,[20]
+188,https://github.com/aarddict/android/issues/11,Keep the scroll position,[]
+189,https://github.com/klassm/andFHEM/issues/1214,Dimmer instead of switch for fgs-223,[0]
+190,https://github.com/klassm/andFHEM/issues/1194,Widgets (Switches) don't gets updated trough incoming FCM,[]
+191,https://github.com/klassm/andFHEM/issues/1183,"High Battery Usage on ""Remote Widget Refresh""","[15, 13, 20]"
+192,https://github.com/klassm/andFHEM/issues/1152,Improve widget battery usage,"[14, 20, 15]"
+193,https://github.com/klassm/andFHEM/issues/1073,Slider werden nicht angezeigt,[]
+194,https://github.com/klassm/andFHEM/issues/918,Support for Devolo socket,[]
+195,https://github.com/klassm/andFHEM/issues/914,Support for Aeotec MultiSensor,[17]
+196,https://github.com/klassm/andFHEM/issues/896,New device HM-ES-TX-WM,[]
+197,https://github.com/klassm/andFHEM/issues/882,Support SB_PLAYER,[]
+198,https://github.com/klassm/andFHEM/issues/862,Support PioneerAvrZone devices,[]
+199,https://github.com/klassm/andFHEM/issues/860,Correct CUL_HM power meter attribute descriptions,[]
+200,https://github.com/klassm/andFHEM/issues/856,Support for HMS water_detector,[]
+201,https://github.com/klassm/andFHEM/issues/755,FileLog für Graphen von HB-UW-Sen-THPL-I / HB-UW-Sen-THPL-O Sensoren,[]
+202,https://github.com/klassm/andFHEM/issues/729,Don't show toggle buttons for CUL_HM powermeter devices without on and off in setList,[19]
+203,https://github.com/klassm/andFHEM/issues/444,Fix strong battery usage,"[15, 14, 18]"
+204,https://github.com/klassm/andFHEM/issues/368,Keymatic support,[]
+205,https://github.com/klassm/andFHEM/issues/365,MAX HeatingThermostatPlus,[]
+206,https://github.com/klassm/andFHEM/issues/355,EMZW device support,[]
+207,https://github.com/klassm/andFHEM/issues/295,Support CUL_HM motion detector,[]
+208,https://github.com/klassm/andFHEM/issues/283,"CUL_HM, MAX heating schedules",[]
+209,https://github.com/klassm/andFHEM/issues/244,MAX device support,[]
+210,https://github.com/klassm/andFHEM/issues/191,TRX_WEATHER Humidity,[]
+211,https://github.com/klassm/andFHEM/issues/83,HMS100TFK support,[]
+212,https://github.com/eleybourn/Book-Catalogue/issues/789,Searching Amazon fails,[]
+213,https://github.com/mpietrzak/apv/issues/37,Feature request: full-screen,"[0, 20]"
+214,https://github.com/telecapoland/jamendo-android/issues/38,"Service seems running in the background, even when I stop the app","[18, 3]"
+215,https://github.com/mapsme/omim/issues/7563,3D buildings doesn't stay off,[20]
+216,https://github.com/hrydgard/ppsspp/issues/5623,Multithreading seems to be broken on the BCM28155 chipset(1.2 dual core cortex-a9 and videcore IV HW graphics),[20]

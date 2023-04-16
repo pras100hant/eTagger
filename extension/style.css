@@ -1,0 +1,13 @@
+.tag {
+    width: max-content;
+    height: 20px;
+    border-radius: 12px;
+    //background: purple; 
+    //background: greenyellow;
+    //background: yellowgreen; 
+    font-size: 11px;
+    padding: 0px 5px;
+    border: 2px solid orange;
+    text-align: center;
+    color: black;
+}
